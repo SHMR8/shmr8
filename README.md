@@ -1,4 +1,4 @@
-Hello 👋 I'm Samuel, technology student
+Hello 👋 My name is Samuel, i write Code in Java, JavaScript and Lua, im a Metaverse enthusiast!
 
 - 📫 How to reach me: samuelhmrocha@gmail.com
 
